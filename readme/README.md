@@ -4,25 +4,25 @@
 </h1>
 
 ## 📖 Indíce
-    -[About](#📕-about)
-    -[Ferramentas](#🔨-ferramentas)
-    -[Tela de Login](#tela-de-login)
-    -[Tela Principal](#tela-principal-main)
-    -[Importar](#importar)
-    -[Tabela Estoque](#tabelas-estoque)
-    -[Tabela Cliente](#tabelas-clientes)
-    -[Tabela Fornecedor](#tabelas-fornecedor)
-    -[Tabela Venda](#tabelas-vendas)
-    -[Carrinho](#carrinho)
-    -[Contatos](#contato)
+- [About](#📕-about) 
+- [Ferramentas](#🔨-ferramentas) 
+- [Tela de Login](#tela-de-login) 
+- [Tela Principal](#tela-principal-main) 
+- [Importar](#importar) 
+- [Tabela Estoque](#tabelas-estoque) 
+- [Tabela Cliente](#tabelas-clientes) 
+- [Tabela Fornecedor](#tabelas-fornecedor) 
+- [Tabela Venda](#tabelas-vendas) 
+- [Carrinho](#carrinho) 
+- [Contatos](#contato) 
 
 ## 📕 About
 É um projeto para auxiliar o usuário, dono de loja, no gerencimento das vendas, do estoque, dos clientes e fornecedores.
 
 ## 🔨 Ferramentas
-    - Python
-    - PostegreSQL
-    - [API receitaws](https://receitaws.com.br/)
+- [Python](https://docs.python.org/3/)
+- [PostegreSQL](https://www.postgresql.org/)
+- [API receitaws](https://receitaws.com.br/)
 
 # Tela de Login
 <img src="./Captura de Tela (2).png">
@@ -70,7 +70,8 @@ Após clicar em adicionar ao carrinho na tabela estoque, o item selecionado é v
 
 ### CONTATO
 <img src ="./Captura de Tela (28).png">
-    Ao clicar nos botões uma página do navegador abrirá e o usuário será redirecionado para os seguintes links:
-    -[Instagram](https://www.instagram.com/_andrewjesus/)
-    -[Linkedin](https://www.linkedin.com/in/andrew-machado-dias-de-jesus-22420a18b/)
-    -[Github](https://github.com/andrewdejesus)
+
+Ao clicar nos botões uma página do navegador abrirá e o usuário será redirecionado para os seguintes links: 
+- [Instagram](https://www.instagram.com/_andrewjesus/)
+- [Linkedin](https://www.linkedin.com/in/andrew-machado-dias-de-jesus-22420a18b/)
+- [Github](https://github.com/andrewdejesus)
